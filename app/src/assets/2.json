@@ -1,0 +1,19 @@
+{
+    "name": "Sleeping Michi 3",
+    "symbol": "SLPM",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "4XqYP2d9nEZEyTS8AuwdQ3GvVvkD7NkxcXrcyAg6eHyj",
+          "share": 100
+        }
+      ]
+    }
+  }
